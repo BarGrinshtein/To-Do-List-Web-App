@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+input[type=password],input[type = number] {
+  width: 85%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid Blue;
+  background-color: inherit;
+  text-align: center;
+}
+
+#mainDiv{
+background-color: #2EFEF7;
+width:30%;
+margin: auto;
+align-items: center;
+text-align: center;
+padding-top: 5px;
+padding-bottom: 5px;
+border-style: double;
+}
+
+.button{
+
+background-color:#0B4C5F;
+border: none;
+border-radius: 3px;
+color: white;
+width: 40%;
+text-align: center;
+cursor: pointer;
+}
+
+#title{
+margin-bottom: 30px;
+margin-top: 30px;
+color: #FF8000;
+font-size: 70px;
+text-shadow: 3px 2px #F3E2A9;
+text-align: center;
+}
+
+body{
+	background-image: url("../Images/todolist.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}

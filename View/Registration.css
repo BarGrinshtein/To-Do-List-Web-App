@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image: url("../Images/todolist.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+input[type=text],input[type = number] {
+  width: 85%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid Blue;
+  background-color: inherit;
+  text-align: center;
+}
+
+input[type=submit]{
+	background-color:#0B4C5F;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    width: 40%;
+    text-align: center;
+    cursor: pointer;
+}
+
+div{
+	background-color: #2EFEF7;
+    width:30%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: dotted;
+}
+
+#title{
+	margin-bottom: 30px;
+    margin-top: 30px;
+    color: red;
+    font-size: 70px;
+    text-shadow: 3px 2px #F3E2A9;
+    text-align: center;
+}

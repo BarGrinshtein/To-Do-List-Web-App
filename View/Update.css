@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+form{ 
+border: thin;
+border-color: green;
+width:80%;
+margin: auto;
+}
+
+div{
+	width: 40%;
+	position: absolute;
+	top:25%;
+	left: 25%;
+	padding: 10px;
+}
+
+body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	min-height: 100%;
+	background: #ECF6CE;
+}
+
+html{
+	height: 100%;
+}
+ h1{
+    position: absolute;
+    left:18%;
+    font-size: 70px;
+    font-family: cursive;
+    color:#DF7401; 
+ }
+
