@@ -1,0 +1,2 @@
+TODO Web App - A fully operational TODO management web app. 
+Server side: MySQL, Hibernate for DB communications, Apache Tomcat server, MVC Java J2EE. Client side: HTML, CSS and JS (pure JS).
